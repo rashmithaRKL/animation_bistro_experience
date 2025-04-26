@@ -1,69 +1,56 @@
-# Welcome to your Lovable project
+## Bristo Elegane
 
-## Project info
+About
 
-**URL**: https://lovable.dev/projects/46d30ae8-ad1b-48e4-8fac-d893152d6acc
+Bistro Elegance is a premium dining website crafted with TypeScript.
+It invites guests to experience refined cuisine, an elegant atmosphere, and a menu that artfully blends innovation with comforting classics.
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+This project is developed by Dexlanka Software Solutions — dexlanka.com.
 
-**Use Lovable**
+You can view the live website here: Visit Tranquil Haven
+(https://rashmitharkl.github.io/animation_bistro_experience/)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/46d30ae8-ad1b-48e4-8fac-d893152d6acc) and start prompting.
+Features
 
-Changes made via Lovable will be committed automatically to this repo.
+🍽️ Curated seasonal menus featuring the freshest ingredients
 
-**Use your preferred IDE**
+👨‍🍳 Talented chefs crafting innovative and traditional dishes
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🏛️ Elegant, inviting dining atmosphere showcased beautifully
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📱 Fully responsive design for flawless mobile and desktop experience
 
-Follow these steps:
+⚡ Optimized with TypeScript for smooth and fast performance
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+🛒 Online reservation and special event booking integration
+
+
+
+How to Run Locally
+
+Follow these steps to set up and run the project on your local machine:
+
+
+Step 1: Clone the repository using the project's Git URL.
+
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+Step 2: Navigate to the project directory.
+
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+Step 3: Install the necessary dependencies.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+npm install
+
+Step 4: Start the development server with auto-reloading and an instant preview.
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Project Information
 
-**Use GitHub Codespaces**
+Developed by: Dexlanka Software Solutions
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/46d30ae8-ad1b-48e4-8fac-d893152d6acc) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Technologies used: TypeScript, [add others like React, TailwindCSS, etc. if used]
